@@ -16,8 +16,8 @@
 <b> Trailer </b>
 </h2>
   
-<a href='https://www.youtube.com/watch?v=Dc6likh5aWk' target='_blank'>
-  <img width='30%' src='https://i.ytimg.com/vi/Dc6likh5aWk/maxresdefault.jpg' alt='Trailer' />
+<a href='https://www.youtube.com/watch?v=3ok2nAkxtDw' target='_blank'>
+  <img width='30%' src='https://i.ytimg.com/vi/3ok2nAkxtDw/maxresdefault.jpg' alt='Trailer' />
 </div>
 
 ***
@@ -58,23 +58,15 @@
 
 ***
 
-## Reparto Oficial 
+## Reparto Principal
 
->Arisu Ryohey
-  >> Representado por Yamazaki Kento, un actor japonés y modelo de 30 años y hace el papel de Ariso en la serie Alice in borderland lo que le dio mucha fama.
-
-<a href='https://www.instagram.com/kentooyamazaki/?hl=es'>
-  <img width='3%' src='https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg' alt='logo' />
-</a>
-
-<a href='https://x.com/kento_yamazakki?lang=es'>
-  <img width='3%' src='https://assets.ifttt.com/images/channels/2/icons/monochrome_large.webp' alt='logo' />
-</a>
-
-<img src='https://static.wikia.nocookie.net/drama/images/c/c4/Yamazaki_Kento_44.jpg/revision/latest?cb=20221228234848&path-prefix=es' alt='Poster' width='300px'/> 
-
-
+<img src='https://m.media-amazon.com/images/M/MV5BNTI0MjIxY2EtY2ZmNS00OGEzLTlkNjYtNDIwMDNlNmJjZGIwXkEyXkFqcGc@._V1_.jpg' alt='Poster' width='240px'/>  <img src='https://m.media-amazon.com/images/M/MV5BZmQxZmFmYjUtMWRjMS00OTYxLTgzMzEtOWEzMzNhZmVmMDc5XkEyXkFqcGc@._V1_.jpg' alt='Arisu' width='240px'/>  <img src='https://m.media-amazon.com/images/M/MV5BZjlmZDhhMDctM2M5Ni00MWFjLTlmOTEtZTE5ZDcwMDQxMDlhXkEyXkFqcGc@._V1_.jpg' alt='Poster' width='240px'/>  <img src='https://m.media-amazon.com/images/M/MV5BMmQzYjU1MTAtYTc5ZC00YjFmLTkxZDQtZmYxM2Q1YmE1YjhjXkEyXkFqcGc@._V1_.jpg' alt='Poster' width='240px'/> 
 
 ```sql
-  Instagram;
-```
+        Yuzuha Usagi                     Arisu Ryohey                    Hikari Kuina                   Shuntaro Chishiya
+        Tao Tsuchiya                    Yamazaki Kento                   Aya Asahina                     Nijirō Murakami
+```                
+
+
+
+
